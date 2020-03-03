@@ -12,5 +12,5 @@ d = d + a
 
 print("j'aime le jambon", d)
 print(c)
-
+print(d)
 print("houston rockets")
