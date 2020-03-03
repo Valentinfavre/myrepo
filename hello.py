@@ -14,4 +14,8 @@ print("j'aime le jambon", d)
 print(c)
 print(d)
 print("houston rockets")
-print("bonjour"
+print("bonjour")
+
+BITCHES = 234 + 34
+
+print(bitches)
